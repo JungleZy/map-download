@@ -731,3 +731,14 @@ build.bat
     <a href="https://github.com/JungleZy/TerraForge/issues">反馈</a>
   </sub>
 </div>
+
+## ⭐ Star 历史
+
+<a href="https://www.star-history.com/#JungleZy/TerraForge&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=JungleZy/TerraForge&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=JungleZy/TerraForge&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=JungleZy/TerraForge&type=Date" />
+ </picture>
+</a>
+
